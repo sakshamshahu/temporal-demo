@@ -2,7 +2,7 @@
 /aadhar_images
 
 # pycache
-temporal_demo/__pycache__
+__pycache__
 
 # uploads
 temporal_demo/src/uploads
