@@ -1,0 +1,8 @@
+# unpacked data 
+/aadhar_images
+
+# pycache
+temporal_demo/__pycache__
+
+# uploads
+temporal_demo/src/uploads
